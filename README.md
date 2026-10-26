@@ -79,7 +79,7 @@ Your music, lyrics, tokens and settings are never stored in this repository (see
 ## Support the project
 
 Triple 9 Studio is free. If it saves you time, you can support its development on **[Ko-fi](https://ko-fi.com/imtatar999)** — no account is needed.
-We are currently raising money to **bring the app to the App Store**.
+We are currently raising money to **bring our Triple 9 Music Player to the App Store**.
 
 <p align="center">
   <a href="https://ko-fi.com/imtatar999"><img src="https://img.shields.io/badge/Support%20on-Ko--fi-ff5e5b?logo=ko-fi&logoColor=white" alt="Support on Ko-fi"></a>
