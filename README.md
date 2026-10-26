@@ -42,7 +42,7 @@ You need **Windows 10 / 11**. No administrator rights, nothing is installed into
 
 **Easiest:**
 
-1. Download [`Triple9Studio-Setup.cmd`](https://raw.githubusercontent.com/imtatar999/Triple-9-Studio/main/Triple9Studio-Setup.cmd) (right-click the link → *Save link as…*) and double-click it.
+1. Download [`Triple9Studio-Setup.cmd`](https://github.com/imtatar999/Triple-9-Studio/releases/latest/download/Triple9Studio-Setup.cmd) and double-click it.
 2. It downloads the newest version into the folder `C:\Users\<you>\Triple 9 Studio`, installs Python, Whisper, FFmpeg and the rest, and puts a **Triple 9 Studio** icon on your desktop.
 
 **Or by hand:** [Download the ZIP](https://github.com/imtatar999/Triple-9-Studio/archive/refs/heads/main.zip), unpack it anywhere and double-click **`Install Triple 9 Studio.cmd`**.
