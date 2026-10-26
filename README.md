@@ -59,9 +59,16 @@ Running the installer again repairs or completes an installation. Disk space: ab
 
 Full, step-by-step guide: **[docs/HOW-TO-USE.md](docs/HOW-TO-USE.md)** (the same text as *Help → How To Use* in the program).
 
-## Community
+## Community, bugs and feature requests
 
-Questions, bug reports, shared `.lrc` files and news: join our Discord server **[Triple 9 Player and Studio](https://discord.gg/t65dA8EGy5)**.
+Join our Discord server **[Triple 9 Player and Studio](https://discord.gg/t65dA8EGy5)** to:
+
+- 🐞 **report bugs** in `#bug-reports` (one thread per bug - tell us what you did, what you expected and what happened),
+- 💡 **request features** in `#feature-requests`,
+- ❓ ask for help in `#help`, chat in `#general`, and share synced lyrics (`.lrc`) in `#share-lrc`,
+- 📢 see new versions in `#updates`.
+
+You can also open an [issue on GitHub](https://github.com/imtatar999/Triple-9-Studio/issues).
 
 ## Updates
 
