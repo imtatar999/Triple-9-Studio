@@ -42,7 +42,7 @@ You need **Windows 10 / 11**. No administrator rights, nothing is installed into
 
 **Easiest:**
 
-1. Download [`Triple9Studio-Setup.cmd`](https://github.com/imtatar999/Triple-9-Studio/releases/latest/download/Triple9Studio-Setup.cmd) and double-click it.
+1. Download [`Triple9Studio-Setup.cmd`](https://raw.githubusercontent.com/imtatar999/Triple-9-Studio/main/Triple9Studio-Setup.cmd) (right-click the link → *Save link as…*) and double-click it.
 2. It downloads the newest version into the folder `C:\Users\<you>\Triple 9 Studio`, installs Python, Whisper, FFmpeg and the rest, and puts a **Triple 9 Studio** icon on your desktop.
 
 **Or by hand:** [Download the ZIP](https://github.com/imtatar999/Triple-9-Studio/archive/refs/heads/main.zip), unpack it anywhere and double-click **`Install Triple 9 Studio.cmd`**.
@@ -75,3 +75,12 @@ Triple 9 Studio checks GitHub a few seconds after it starts. When a newer versio
 - A new version is a new git tag `vX.Y.Z` (and `VERSION` in `studio_version.py`); the updater installs the highest tag.
 
 Your music, lyrics, tokens and settings are never stored in this repository (see `.gitignore`).
+
+## Support the project
+
+Triple 9 Studio is free. If it saves you time, you can support its development on **[Ko-fi](https://ko-fi.com/imtatar999)** — no account is needed.
+We are currently raising money to **bring the app to the App Store**.
+
+<p align="center">
+  <a href="https://ko-fi.com/imtatar999"><img src="https://img.shields.io/badge/Support%20on-Ko--fi-ff5e5b?logo=ko-fi&logoColor=white" alt="Support on Ko-fi"></a>
+</p>
