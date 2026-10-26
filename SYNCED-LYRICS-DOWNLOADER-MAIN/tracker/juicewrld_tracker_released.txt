@@ -1,0 +1,289 @@
+# tab	era/project	#	names (separated by ' | ')	recorded	location	producers	raw record cell
+Released	JUTE	1	I SWEAR	2015-09-24	Enviyon Entertainment Recording Studio, Country Club Hills, Chicago, IL.	Spaycjones	Recorded / September 24, 2015.
+Released	JUTE	2	Pretty Boy	2016-01	Enviyon Entertainment Recording Studio, Country Club Hills, Chicago, IL.	Unknown	Recorded / January 25-26, 2016.
+Released	JUTE	3	Too Smooth	2016-01-25	Enviyon Entertainment Recording Studio, Country Club Hills, Chicago, IL.	Unknown	Recorded / January 25, 2016. / File Exported / January 25, 2016.
+Released	JUTE	4	RUNNAWAY FREESTYLE | Runaway (Remix)		Enviyon Entertainment Recording Studio, Country Club Hills, Chicago, IL.	Ye West, Emile Haynie, Jeff Bhasker & Mike Dean	-
+Released	JUTE	5	WOAH | WOAH (Pt. 1)	2015-09-27	Enviyon Entertainment Recording Studio, Country Club Hills, Chicago, IL.	Canis Major	Recorded / September 27, 2015. / File Exported / September 27, 2015.
+Released	AFF	1	ROCKSTAR GIRL | ROCKSTAR GIRL </3		Enviyon Entertainment Recording Studio, Country Club Hills, Chicago, IL.	Dorien Theus	-
+Released	AFF	2	Golden X Get Away </3 (interlude) | GOLDEN x GETAWAY		Enviyon Entertainment Recording Studio, Country Club Hills, Chicago, IL.	Dorien Theus & Nick Mira	-
+Released	AFF	3	playing games (I'm not playing fair) </3 | PLAYING GAMES	2016-12-29	Enviyon Entertainment Recording Studio, Country Club Hills, Chicago, IL.	Dorien Theus & Young Lepa	Recorded / December 29, 2016.
+Released	HIH 9 9 9	1	FALL BACK | FALL BACK 9 9 9	2017-03-18	Enviyon Entertainment Recording Studio, Country Club Hills, Chicago, IL.	Dorien Theus & Nick Mira	Recorded / March 18, 2017.
+Released	HIH 9 9 9	2	hollywood dreams (come true) 9 9 9	2017-03-20	Enviyon Entertainment Recording Studio, Country Club Hills, Chicago, IL.	Dorien Theus & The Kid Frankie	Recorded / March 20, 2017.
+Released	JW 9 9 9	1	moonlight	2017-06-13	Enviyon Entertainment Recording Studio, Country Club Hills, Chicago, IL.	Dorien Theus	Recorded / June 13, 2017.
+Released	JW 9 9 9	2	lucid dreams (forget me) | Lucid Dreams | Lucid Dreams (Pt. 1)	2017-06-13	Enviyon Entertainment Recording Studio, Country Club Hills, Chicago, IL.	Dominic Miller & Nick Mira	Recorded / June 13, 2017.
+Released	JW 9 9 9	3	eye contact (look me in my eyes) | eye contact (look me in my eyes freestyle)	2017-06-09	Enviyon Entertainment Recording Studio, Country Club Hills, Chicago, IL.	Dorien Theus	Recorded / June 9, 2017.
+Released	JW 9 9 9	4	rainbow	2017-06-09	Enviyon Entertainment Recording Studio, Country Club Hills, Chicago, IL.	Dorien Theus & Nick Mira	Recorded / June 9, 2017.
+Released	JW 9 9 9	5	sticks & stones | sticks & stones (closure)	2017-06-09	Enviyon Entertainment Recording Studio, Country Club Hills, Chicago, IL.	Dorien Theus	Recorded / June 9, 2017.
+Released	JW 9 9 9	6	lost her	2017-06-09	Enviyon Entertainment Recording Studio, Country Club Hills, Chicago, IL.	Dorien Theus	Recorded / June 9, 2017.
+Released	JW 9 9 9	7	two cups (everything's going my way)	2017-06-09	Enviyon Entertainment Recording Studio, Country Club Hills, Chicago, IL.	Dorien Theus	Recorded / June 9, 2017.
+Released	JW 9 9 9	8	let me know (I wonder why freestyle)	2017-06-13	Enviyon Entertainment Recording Studio, Country Club Hills, Chicago, IL.	Lapalux & Nick Mira	Recorded / June 13, 2017.
+Released	JW 9 9 9	9	until it's over (closure)	2017-06-09	Enviyon Entertainment Recording Studio, Country Club Hills, Chicago, IL.	Dorien Theus & Nick Mira	Recorded / June 9, 2017.
+Released	BDM	1	YOUDONTLOVEME	2017-10	Columbia College University Center Dormitory Recording Studio, South Loop, Chicago, IL.	Nick Mira	Recorded / October 28-29, 2017.
+Released	BDM	2	PARANOID	2017-10	Columbia College University Center Dormitory Recording Studio, South Loop, Chicago, IL.	Max Marlow & Nick Mira	Recorded / October 28-29, 2017.
+Released	ND </3	1	ALL GIRLS ARE THE SAME 999 | AGATS (Pt. 1) | All Girls Are The Same | Same (Pt. 1)	2017-12-14	Morgan Lightle's Home Recording Studio, Homewood, Chicago, IL.	Nick Mira	Recorded / December 14, 2017.
+Released	ND </3	2	DENIAL </3 (demo)	2017-12-11	Unhkl Flex's Home Recording Studio, Matteson, Chicago, IL.	Larva Casei & Wakizashi	Recorded / December 11, 2017.
+Released	GB&GR	1	Intro (feat. ToiNoStory)	2018-05	Enviyon Entertainment Recording Studio, Country Club Hills, Chicago, IL.	Donn Robb & TyMadeIt	ToiNoStory's Vocals / May [?], 2018.
+Released	GB&GR	2	All Girls Are The Same | AGATS (Pt. 1) | ALL GIRLS ARE THE SAME 999 | Same (Pt. 1)	2017-12-14	Morgan Lightle's Home Recording Studio, Homewood, Chicago, IL.	Nick Mira	Recorded / December 14, 2017.
+Released	GB&GR	3	Lucid Dreams | lucid dreams (forget me) | Lucid Dreams (Pt. 1)	2017-06-13	Enviyon Entertainment Recording Studio, Country Club Hills, Chicago, IL.	Dominic Miller & Nick Mira	Recorded / June 13, 2017.
+Released	GB&GR	4	Lean Wit' Me | Lean With Me	2018-03-27	Glass Tree Creative Recording Studio, Downtown, Chicago, IL.	Nick Mira	Recorded / March 27, 2018.
+Released	GB&GR	5	I'm Still	2018-02-17	Paramount Recording Studio, Santa Monica, Los Angeles, CA.	Nick Mira & YogeshST	Recorded / February 17, 2018.
+Released	GB&GR	6	Betrayal (Skit) [feat. ToiNoStory]	2018-05	Enviyon Entertainment Recording Studio, Country Club Hills, Chicago, IL.	Donn Robb & TyMadeIt	ToiNoStory's Vocals / May [?], 2018.
+Released	GB&GR	7	Candles	2018-02	Penthouse Recording Studio, Times Square, New York City, NY.	Jo L'Z, Nick Mira & Taz Taylor	Recorded / February 4-5, 2018.
+Released	GB&GR	8	Scared Of Love	2018-01-31	Private Stock Recording Studio, Mayfair, Chicago, IL.	Ghost Loft & Mitch Mula	Recorded / January 31, 2018.
+Released	GB&GR	9	Used To	2018-01-08	Morgan Lightle's Home Recording Studio, Homewood, Chicago, IL.	NAGI & Nick Mira	Recorded / January 8, 2018.
+Released	GB&GR	10	Karma (Skit) [feat. ToiNoStory]	2018-05	Enviyon Entertainment Recording Studio, Country Club Hills, Chicago, IL.	Donn Robb & TyMadeIt	ToiNoStory's Vocals / May [?], 2018.
+Released	GB&GR	11	Hurt Me | sticks & stones | sticks & stones (closure)	2017-06-09	Enviyon Entertainment Recording Studio, Country Club Hills, Chicago, IL.	Dorien Theus	Recorded / June 9, 2017.
+Released	GB&GR	12	Black & White | Black + White	2018-05-08	Record Plant Recording Studio, West Hollywood, Los Angeles, CA.	Benny Blanco & Cashmere Cat	Recorded / May 8, 2018.
+Released	GB&GR	13	Long Gone | Long Gone (Pt. 1)	2018-03	NightBird Recording Studio, West Hollywood, Los Angeles, CA.	Cardo Got Wings & RicandThadeus	Recorded / March 10-11, 2018.
+Released	GB&GR	14	End Of The Road	2018-01-19	Valley High Residential Recording Studio, Studio City, Los Angeles, CA.	Nick Mira	Recorded / January 19, 2018.
+Released	GB&GR	15	I'll Be Fine	2018-01-19	Valley High Residential Recording Studio, Studio City, Los Angeles, CA.	JRHITMAKER & Nick Mira	Recorded / January 19, 2018.
+Released	TS...	1	Legends | legends :(	2018-06-18	Chalice Recording Studio, West Hollywood, Los Angeles, CA.	Russell Chell & Take A Daytrip	Recorded / June 18, 2018.
+Released	TS...	2	Rich And Blind | rich and blind :(	2018-06-19	Chalice Recording Studio, West Hollywood, Los Angeles, CA.	Jasper Harris, Russell Chell & Take A Daytrip	Recorded / June 19, 2018.
+Released	UNS: JW	1	Lucid Dreams (Live) | lucid dreams (forget me) | Lucid Dreams (Pt. 1)	2018-06	Chalice Recording Studio, West Hollywood, Los Angeles, CA.	Dominic Miller, Matt Spatola & Nick Mira	Recorded / June 11-12, 2018.
+Released	UNS: JW	2	Lean Wit' Me (Live) | Lean With Me	2018-06-11	Chalice Recording Studio, West Hollywood, Los Angeles, CA.	Nick Mira & Unknown	Recorded / June 11, 2018.
+Released	UNS: JW	3	All Girls Are The Same (Live) | AGATS (Pt. 1) | ALL GIRLS ARE THE SAME 999 | Same (Pt. 1)	2018-06	Chalice Recording Studio, West Hollywood, Los Angeles, CA.	Nick Mira & Unknown	Recorded / June 11-12, 2018.
+Released	WOD	1	Jet Lag (with Future) [feat. Young Scooter]	2018-07	Juice's Vocals, Chalice Recording Studio, West Hollywood, Los Angeles, CA.	Andrew Watt & Louis Bell	Juice's Vocals / July 23-24, 2018.
+Released	WOD	2	Astronauts (with Future)	2018-08-01	5Star Production Studio, Atlantic Station, Atlanta, GA.	Bobby Raps & Wheezy	Juice's Vocals / August 1, 2018.
+Released	WOD	3	Fine China (with Future)	2018-08-24	5Star Production Studio, Atlantic Station, Atlanta, GA.	Psymun, SinGrinch & Wheezy	Juice's Vocals / August 24, 2018. / Future's Vocals / August 24-25, 2018.
+Released	WOD	4	Red Bentley (with Future) [feat. Young Thug] | All Red Bentley | Gigolo		Juice's Vocals, 5Star Production Studio, Atlantic Station, Atlanta, GA.	Murda Beatz	-
+Released	WOD	5	Make It Back	2018-08-25	5Star Production Studio, Atlantic Station, Atlanta, GA.	CVRE, Frank Dukes & Wheezy	Recorded / August 25, 2018.
+Released	WOD	6	Oxy (feat. Lil Wayne)	2018-10		Richie Souf	Future's Vocals / October 12-13, 2018.
+Released	WOD	7	7 A.M. Freestyle (with Future) | Seven A.M.	2018-08	5Star Production Studio, Atlantic Station, Atlanta, GA.	Wheezy	Recorded / August [?], 2018.
+Released	WOD	8	Different (feat. Future & Yung Bans)	2018-08-28	Juice's Vocals, 5Star Production Studio, Atlantic Station, Atlanta, GA.	CuBeatz & Wheezy	Juice's Vocals / August 28, 2018.
+Released	WOD	9	Shorty (with Future) | Shawty	2018-08	5Star Production Studio, Atlantic Station, Atlanta, GA.	Aviator Keyz, Outtatown & Wheezy	Recorded / August [?], 2018.
+Released	WOD	10	Realer 'N Realer (feat. Future)	2018-08-25	Juice's Vocals, 5Star Production Studio, Atlantic Station, Atlanta, GA.	Frankie Bash & Wheezy	Juice's Vocals / August 25, 2018.
+Released	WOD	11	No Issue (with Future)	2018-08	5Star Production Studio, Atlantic Station, Atlanta, GA.	Wheezy	Recorded / August [?], 2018.
+Released	WOD	12	WRLD On Drugs (with Future) | World On Drugs	2018-08	5Star Production Studio, Atlantic Station, Atlanta, GA.	BHUNNA, Don Cannon, Oogie Mane & Treshaun Beatz	Recorded / August [?], 2018.
+Released	WOD	13	Afterlife	2018-08		DY Krazy & Wheezy	Recorded / August [?], 2018.
+Released	WOD	14	Ain't Livin' Right (with Future & Gunna)	2018-08-23	Juice & Gunna's Vocals, 5Star Production Studio, Atlantic Station, Atlanta, GA.	Nikko Bunkin & TrellGotWings	Juice & Gunna's Vocals / August 23, 2018.
+Released	WOD	15	Transformer (feat. Nicki Minaj)	2018-08		ATL Jacob	Future's Vocals / August [?], 2018.
+Released	WOD	16	Hard Work Pays Off (with Future)	2018-07	Chalice Recording Studio, West Hollywood, Los Angeles, CA.	Andrew Watt, Happy Perez & Louis Bell	Recorded / July 23-24, 2018.
+Released	DRFL	1	Empty	2018-11-12	Rented Home Recording Studio, West Hollywood, Los Angeles, CA.	Nick Mira	Recorded / November 12, 2018.
+Released	DRFL	2	Maze	2019-01-10	Blue Room West Recording Studio, West Hollywood, Los Angeles, CA.	Boi-1da, Don Mills & Jahaan Sweet	Recorded / January 10, 2019.
+Released	DRFL	3	HeMotions | Motions | Muddy Emotions | The Motions	2019-01-11	Blue Room West Recording Studio, West Hollywood, Los Angeles, CA.	Hit-Boy	Recorded / January 11, 2019.
+Released	DRFL	4	Demonz (Interlude)	2019-01		Atu, Brent Faiyaz & Paperboy Fabe	Brent's Vocals / January [?], 2019.
+Released	DRFL	5	Fast | Last Call	2018-07-24	Gold Tooth Music Recording Studio, Beverly Hills, Los Angeles, CA.	Andrew Watt, Frank Dukes & Louis Bell	Intro, Hook & First Verse / July 24, 2018. / Second Verse & Outro / July 26, 2018.
+Released	DRFL	6	Hear Me Calling | Hear Me Callin' | One And Only	2019-01-12	Blue Room West Recording Studio, West Hollywood, Los Angeles, CA.	J.Views & Purps On The Beat	Intro, Hook & First Verse / January 12, 2019. / Outro & Second Verse / January 23, 2019.
+Released	DRFL	7	Big	2019-01-11	Blue Room West Recording Studio, West Hollywood, Los Angeles, CA.	Corbett, Hit-Boy & Treshaun Beatz	Recorded / January 11, 2019.
+Released	DRFL	8	Robbery	2018-01-24	Rented Home Recording Studio, Sherman Oaks, Los Angeles, CA.	Nick Mira	Recorded / January 24, 2018.
+Released	DRFL	9	Flaws And Sins	2018-11-14	Rented Home Recording Studio, West Hollywood, Los Angeles, CA.	Nick Mira	Recorded / November 14, 2018.
+Released	DRFL	10	Feeling | Feelin' | Feelin' (About U)	2019-01-11	Blue Room West Recording Studio, West Hollywood, Los Angeles, CA.	Nick Mira	Recorded / January 11, 2019.
+Released	DRFL	11	Syphilis	2019-01-12	Blue Room West Recording Studio, West Hollywood, Los Angeles, CA.	Cardo Got Wings & Yung Exclusive	Recorded / January 12, 2019.
+Released	DRFL	12	Who Shot Cupid?	2018-09-19	Intro, Hook & First Verse, Twin Recording Studio, 16e Arrondissement, Paris, France., Refrain, Second Verse & Bridge, Blue Room West Recording Studio, West Hollywood, Los Angeles, CA.	Purps On The Beat	Intro, Hook & First Verse / September 19, 2018. / Refrain, Second Verse & Bridge / January 29, 2019.
+Released	DRFL	13	Ring Ring (feat. Clever)	2018-11-07	Juice's Vocals, Electric Feel Recording Studio, West Hollywood, Los Angeles, CA.	Rvssian	Juice's Vocals / November 7, 2018. / Clever's Vocals / February 18, 2019.
+Released	DRFL	14	Desire	2019-01-12	Blue Room West Recording Studio, West Hollywood, Los Angeles, CA.	Purps On The Beat	Intro, Pre-Hook, Hook & First Verse / January 12, 2019. / Pre-Intro & Second Verse / January 22, 2019.
+Released	DRFL	15	Out My Way	2019-01	Blue Room West Recording Studio, West Hollywood, Los Angeles, CA.	Hit-Boy	Recorded / January 13-14, 2019.
+Released	DRFL	16	The Bee's Knees | Bee's Knees	2019-01	Blue Room West Recording Studio, West Hollywood, Los Angeles, CA.	BRYVN, G. Ry, Hit-Boy & No I.D.	Recorded / January 19-20, 2019.
+Released	DRFL	17	ON GOD (with Young Thug)	2018-10-23	Crosby Recording Studio, Burbank, Los Angeles, CA.	DY Krazy & Rex Kudo	Recorded / October 23, 2018.
+Released	DRFL	18	10 Feet | Ten Feet	2019-01-15	Blue Room West Recording Studio, West Hollywood, Los Angeles, CA.	Arin Ray, Camden Bench & Cory Dean	Recorded / January 15, 2019.
+Released	DRFL	19	Won't Let Go	2019-01-22	Blue Room West Recording Studio, West Hollywood, Los Angeles, CA.	Morgoth Beatz & Purps On The Beat	Recorded / January 22, 2019.
+Released	DRFL	20	She's The One | She's The One For Me	2019-01-23	Blue Room West Recording Studio, West Hollywood, Los Angeles, CA.	Hit-Boy	Recorded / January 23, 2019.
+Released	DRFL	21	Rider	2018-11-09	Rented Home Recording Studio, West Hollywood, Los Angeles, CA.	Power	Recorded / November 9, 2018.
+Released	DRFL	22	Make Believe	2018-12-18	Paramount Recording Studio, Santa Monica, Los Angeles, CA.	Boi-1da, Jahaan Sweet, TBHits & Tone Jones	Recorded / December 18, 2018.
+Released	LND	1	Anxiety (Intro) | Anxiety (Interlude) | Intro			Hylton Mowday & Khaled Rohaim	Files Exported / July 10, 2020.
+Released	LND	2	Conversations | Devil Conversations	2019-05-17	The Dupont Circle Hotel Recording Studio, Downtown, Washington DC, WA.	DJ Scheme, Faith Monaco, Nils & Ronny J	Recorded / May 17, 2019. / Files Exported / July 10, 2020.
+Released	LND	3	Titanic	2019-07-16	Home Recording Studio, Encino Hills, Los Angeles, CA.	DY Krazy, Maher Woo-Shear & Rex Kudo	Recorded / July 16, 2019. / Files Exported / July 10, 2020.
+Released	LND	4	Bad Energy	2019-06-24	Home Recording Studio, Encino Hills, Los Angeles, CA.	Blake Slatkin & Take A Daytrip	Recorded / June 24, 2019. / Files Exported / July 10, 2020.
+Released	LND	5	Righteous	2019-05-22	Mondrian Park Avenue Hotel Recording Studio, Midtown Manhattan, New York City, NY.	Charlie Handsome & Nick Mira	Recorded / May 22, 2019. / Files Exported / July 10, 2020.
+Released	LND	6	Blood On My Jeans	2019-07-14	The Westin Hotel Recording Studio, Palo Alto, San Jose, CA.	Gezin, Max Lord & Strapazoot	Recorded / July 14, 2019. / Files Exported / July 10, 2020.
+Released	LND	7	Tell Me U Luv Me (with Trippie Redd) | Tell Me You Love Me	2019-10-22	Home Recording Studio, Encino Hills, Los Angeles, CA.	Nick Mira, Khaled Rohaim & ​Oktanner	Trippie's Hook & Juice's Verse / October 22, 2019. / Juice's Second Verse & Bridge / November 9, 2019. / Files Exported / July 10, 2020.
+Released	LND	8	Other Side	2019-10-08	Juice & Polo G's Vocals, Home Recording Studio, Encino Hills, Los Angeles, CA., LAROI's Vocals, Paramount Recording Studio, Santa Monica, Los Angeles, CA.	KSHMR & Marshmello	Juice & Polo G's Vocals / October 8, 2019. / Files Exported / July 10, 2020.
+Released	LND	9	Get Through It (Interlude)	2019-08-26	Home Recording Studio, Encino Hills, Los Angeles, CA.	Hylton Mowday & Khaled Rohaim	Recorded / August 26, 2019. / Files Exported / July 10, 2020.
+Released	LND	10	Life's A Mess (feat. Halsey)	2019-09	Juice's Vocals, Home Recording Studio, Encino Hills, Los Angeles, CA., Halsey's Vocals, Blue Room West Recording Studio, West Hollywood, Los Angeles, CA.	Charlie Handsome, Frank Knuckles, Heavy Mellow, Khaled Rohaim, Rex Kudo & Rick Rubin	Juice's Vocals / September [?], 2019. / Halsey's Vocals / June 30, 2020. / Files Exported / July 10, 2020.
+Released	LND	11	Come & Go (EDM Remix) | Ruin This One	2018-11-30	Rented Home Recording Studio, Sandy Springs, Atlanta, GA.	Gezin & Marshmello	Recorded / November 30, 2018. / Files Exported / July 10, 2020.
+Released	LND	12	I Want It (feat. Halsey) | Water	2018-08-08	Juice's Vocals, Serenity West Recording Studio, Hollywood, Los Angeles, CA.	1Mind, Dre Moon & Tyler Turner	Juice's Vocals / August 8, 2018. / Halsey's Vocals / July 2, 2020. / Files Exported / July 10, 2020.
+Released	LND	13	Fighting Demons | Run Away	2019-05-22	Mondrian Park Avenue Hotel Recording Studio, Midtown Manhattan, New York City, NY.	Dorien Theus & Nick Mira	Recorded / May 22, 2019. / Files Exported / July 10, 2020.
+Released	LND	14	Wishing Well | I Can't Breathe	2018-04-09	Blue Room West Recording Studio, West Hollywood, Los Angeles, CA.	Chopsquad DJ & Dr. Luke	Recorded / April 9, 2018. / Files Exported / July 10, 2020.
+Released	LND	15	Screw Juice	2019-05	Mondrian Park Avenue Hotel Recording Studio, Midtown Manhattan, New York City, NY.	Nick Mira	Recorded / May 21-22, 2019. / Files Exported / July 10, 2020.
+Released	LND	16	Up Up And Away	2019-09	Home Recording Studio, Encino Hills, Los Angeles, CA.	Charlie Handsome, Joe Reeves & Rex Kudo	Recorded / September 17-18, 2019. / Files Exported / July 10, 2020.
+Released	LND	17	The Man, The Myth, The Legend (Interlude)			Hylton Mowday & Khaled Rohaim	Files Exported / July 10, 2020.
+Released	LND	18	Stay High	2018-07-11	Paramount Recording Studio, Santa Monica, Los Angeles, CA.	2Fly, Khaled Rohaim & Sid Mallick	Recorded / July 11, 2018. / Files Exported / July 10, 2020.
+Released	LND	19	Can't Die | I Can't Die	2018-06-19	Chalice Recording Studio, West Hollywood, Los Angeles, CA.	DY Krazy & Morgan O'Connor	Recorded / June 19, 2018. / Files Exported / July 10, 2020.
+Released	LND	20	Man Of The Year | Man Of The Year (999) | M.O.T.Y.	2019-07-06	Wendyhouse Production Studio, Shepherd's Bush, London, England.	Heavy Mellow, Joe Reeves, Rex Kudo & Skrillex	Recorded / July 6, 2019. / Files Exported / July 10, 2020.
+Released	LND	21	Juice WRLD Speaks From Heaven (Outro)	2019-06-12	Rio Chico Private Estate, Dunns River Falls, Jamaica.	Hylton Mowday & Khaled Rohaim	Recorded / June 12, 2019. / Files Exported / July 10, 2020.
+Released	LND (5YAE)	1	The Way (with XXXTENTACION) | D.Y.K.T.W.	2018-06	Juice's Vocals, Paramount Recording Studio, Santa Monica, Los Angeles, CA.	John Cunningham & Robbie Soukiasyan	XXX's Vocals / February [?], 2018. / Juice's Vocals / June 17-18, 2018.
+Released	LND (5YAE)	2	All Life Long | Good Time	2019-06-11	Fordson Hotel Recording Studio, Central, Oklahoma City, OK.	Dot Da Genius & Take A Daytrip	Recorded / June 11, 2019.
+Released	LND (5YAE)	3	In My Head | Rush Hour | Trauma	2019-05	Casa Monica Resort & Spa Hotel Recording Studio, Lincolnville, St. Augustine, FL.	TrePounds & Sheldon Ferguson	Recorded / May 8-9, 2019. / File Exported / October 18, 2022.
+Released	LND (5YAE)	4	Face 2 Face | Face My Fears | Face To Face	2019-08-24	Home Recording Studio, Encino Hills, Los Angeles, CA.	Charlie Handsome, Joe Reeves & Rex Kudo	Recorded / August 24, 2019.
+Released	FD	1	Burn	2019-07-25	Home Recording Studio, Encino Hills, Los Angeles, CA.	Joël Fajerman & Metro Boomin'	Recorded / July 25, 2019.
+Released	FD	2	Already Dead	2018-03-21	Paramount Recording Studio, Santa Monica, Los Angeles, CA.	Dorien Theus & Nick Mira	Recorded / March 21, 2018.
+Released	FD	3	You Wouldn't Understand | Outrage | U Wouldn't Understand	2018-11-09	Rented Home Recording Studio, West Hollywood, Los Angeles, CA.	Gezin, Max Lord, Nedo & Nils	Recorded / November 9, 2018.
+Released	FD	4	Wandered To L.A. (feat. Justin Bieber)	2018-03-01	Juice's Vocals, Electric Feel Recording Studio, West Hollywood, Los Angeles, CA.	HARV & Louis Bell	Juice's Vocals / March 1, 2018.
+Released	FD	5	Eminem Speaks	2020-02	Ocean Way Record One Studio, Sherman Oaks, Los Angeles, CA.		Recorded / February 19-20, 2020.
+Released	FD	6	Rockstar In His Prime | Deal With This Hurt	2018-12	Serenity West Recording Studio, Hollywood, Los Angeles, CA.	Dee Jae & T-Minus	Recorded / December 22-23, 2018.
+Released	FD	7	Doom	2018-06-20	Chalice Recording Studio, West Hollywood, Los Angeles, CA.	Mason David Levy & Take A Daytrip	Recorded / June 20, 2018.
+Released	FD	8	Go Hard 1.0	2019-08-21	Myconian Avaton Hotel Recording Studio, Elia Beach, Elia, Mykonos, Greece.	KBeaZy	Recorded / August 21, 2019.
+Released	FD	9	Juice WRLD Speaks	2019-10-16	100 Black Men Of Chicago High School, West Loop Gate, Chicago, IL.		Recorded / October 16, 2019.
+Released	FD	10	Not Enough | I Need You | Out Of Luck	2018-04	Glass Tree Creative Recording Studio, Downtown, Chicago, IL.	Dr. Luke, Justin Craig, KBeaZy & PD Beats	Recorded / April 26-27, 2018. / File Exported / December 1, 2021.
+Released	FD	11	Feline (feat. Polo G & Trippie Redd)	2018-05-05	Juice's Vocals, Blue Room West Recording Studio, West Hollywood, Los Angeles, CA.	Dorien Theus, Nick Mira & Subhaan Rahmaan	Juice's Vocals / May 5, 2018. / Polo G's Vocals / November 14, 2021.
+Released	FD	12	Relocate | No Russian	2019-08-04	Home Recording Studio, Encino Hills, Los Angeles, CA.	Nick Mira	Recorded / August 4, 2019.
+Released	FD	13	Juice WRLD Speaks 2 | Admit Yourself	2019-09-19	Home Recording Studio, Encino Hills, Los Angeles, CA.	Rex Kudo	Recorded / September 19, 2019.
+Released	FD	14	Until The Plug Comes Back Around	2019-10	Home Recording Studio, Encino Hills, Los Angeles, CA.	Audio Jacc, Gezin, Max Lord & No Love For The Middle Child	Recorded / October 7-8, 2019.
+Released	FD	15	From My Window | WRLD My Window	2018-12-01	Tree Sound Recording Studio, Norcross, Atlanta, GA.	Charlie Handsome & Nick Mira	Recorded / December 1, 2018.
+Released	FD	16	Girl Of My Dreams (feat. SUGA)	2019-09-13	Juice's Vocals, Home Recording Studio, Encino Hills, Los Angeles, CA., SUGA's Vocals, Blue Room West Recording Studio, West Hollywood, Los Angeles, CA.	Jaegen, Josh J, Kookoo & Max Lord	Juice's Vocals / September 13, 2019.
+Released	FD	17	Feel Alone	2019-06-16	Thompson Nashville Hotel Recording Studio, The Gulch, Nashville, TN.	Danny Wolf & Lowtow	Recorded / June 16, 2019.
+Released	FD	18	My Life In A Nutshell | Pain Heal	2018-04-08	Blue Room West Recording Studio, West Hollywood, Los Angeles, CA.	Nick Mira & Novo Amor	Recorded / April 8, 2018.
+Released	TPP	1	World Tour (Aquafina)	2018-08-17	The Oz Recording Studio, Manhattan, New York City, NY.	DJ Relentt	Recorded / August 17, 2018.
+Released	TPP	2	Lightyears (feat. Young Thug) | Internet | Sky High	2018-08-05	Juice's Vocals, Premier Recording Studio, Midtown West, New York City, NY., Thug's Vocals, Crosby Recording Studio, Burbank, Los Angeles, CA.	Minor2Go & Nick Mira	Juice's Vocals / August 5, 2018.
+Released	TPNE	1	The Party Never Ends | B485 | I See In The Dark | Let The Party Start	2019-04	Intro & Hook, Rented Private Estate Recording Studio, Bermuda Dunes, CA., Outro, Electric Feel Recording Studio, West Hollywood, Los Angeles, CA.	Benny Blanco, Cashmere Cat, Carlton McDowell & SoundsBy8	Intro & Hook / April 11-21, 2019. / Outro / March 1, 2018.
+Released	TPNE	2	Misfit	2018-02-16	Record Plant Recording Studio, West Hollywood, Los Angeles, CA.	Benny Blanco, Cashmere Cat & Happy Perez	Recorded / February 16, 2018.
+Released	TPNE	3	AGATS (Pt. 2) | Same (Pt. 2)	2018-03-01	Juice's Vocals, Electric Feel Recording Studio, West Hollywood, Los Angeles, CA.	Louis Bell	Juice's Vocals / March 1, 2018.
+Released	TPNE	4	Lace It (feat. Eminem)			Benny Blanco, Cashmere Cat, Eminem, Happy Perez & Luis Resto	-
+Released	TPNE	5	Cuffed | Victorious	2018-12-13	Rented Home Recording Studio, Sandy Springs, Atlanta, GA.	Nick Mira	Recorded / December 13, 2018.
+Released	TPNE	6	KTM Drip | Don't Fall Off	2018-11-17	Rented Home Recording Studio, West Hollywood, Los Angeles, CA.	Dorien Theus & Nick Mira	Recorded / November 17, 2018.
+Released	TPNE	7	Love Letter	2018-11	Gold Tooth Music Recording Studio, Beverly Hills, Los Angeles, CA.	Dorien Theus & Nick Mira	Recorded / November 19-20, 2018.
+Released	TPNE	8	Condone It	2018-12-19	Paramount Recording Studio, Santa Monica, Los Angeles, CA.	Boi-1da, Jahaan Sweet, TBHits & Tone Jones	Recorded / December 19, 2018.
+Released	TPNE	9	Goodbye			Benny Blanco, Cashmere Cat & Blake Slatkin	-
+Released	TPNE	10	Party By Myself | Pills And The Reefer | To My Brain	2019-08	Home Recording Studio, Encino Hills, Los Angeles, CA.	Charlie Handsome, Joe Reeves & Rex Kudo	Recorded / August [?], 2019.
+Released	TPNE	11	Adore You | Never Seen A Soul Like Yours Before	2019-04-29	Thompson Seattle Hotel Recording Studio, Pike Place Market, Seattle, WA.	MjNichols & Nick Mira	Recorded / April 29, 2019.
+Released	TPNE	12	Celebrate (feat. Offset) | Since A Jit	2019-07	Juice's Vocals, Home Recording Studio, Encino Hills, Los Angeles, CA.	Metro Boomin'	Juice's Vocals / July 30-31, 2019.
+Released	TPNE	13	Jeffrey	2018-03-31	Glass Tree Creative Recording Studio, Downtown, Chicago, IL.	Nick Mira	Recorded / March 31, 2018.
+Released	TPNE	14	Barbarian	2018-12	Rented Home Recording Studio, Sandy Springs, Atlanta, GA.	Nick Mira	Recorded / December 13-14, 2018.
+Released	TPNE	15	Best Friend (feat. Fall Out Boy) | Princess Leia	2018-11	Juice's Vocals, Gold Tooth Music Recording Studio, Beverly Hills, Los Angeles, CA.	Andrew Watt, Benny Blanco & Cashmere Cat	Juice's Vocals / November 19-20, 2018.
+Released	TPNE	16	Floor It	2019-03	St. Martin's Lane Hotel Recording Studio, Covent Garden, London, England.	Charlie Handsome, Joe Reeves & Rex Kudo	Recorded / March 10-11, 2019.
+Released	TPNE	17	Oxycodone | OxyContin	2019-04	Rented Private Estate Recording Studio, Bermuda Dunes, CA.	Purps On The Beat	Recorded / April 17-18, 2019.
+Released	TPNE	18	Spend It | Cha-Ching	2018-11-16	Rented Home Recording Studio, West Hollywood, Los Angeles, CA.	Zaytoven	Recorded / November 16, 2018.
+Released	TPNE (DDE)	1	Unknown			Unknown	-
+Released	TPNE (DDE)	2	Unknown			Unknown	-
+Released	TPNE (DDE)	3	Unknown			Unknown	-
+Released	TPNE (DDE)	4	Unknown			Unknown	-
+Released	TPNE (DDE)	5	Unknown			Unknown	-
+Released	TPNE (DDE)	6	Unknown			Unknown	-
+Released	TPNE (DDE)	7	Unknown			Unknown	-
+Released	TPNE (DDE)	8	Unknown			Unknown	-
+Released	TPNE (DDE)	9	Unknown			Unknown	-
+Released	TPNE (DDE)	10	Unknown			Unknown	-
+Released	Smule	1	TURKEY BURGERS | Kill Shit (Cover)	2014-05-01	[?], [?], Chicago, IL.	MIDI Mafia	Recorded / May 1, 2014.
+Released	YouTube	1	AYE AYEEE | Ayeee		Homewood Public Library Digital Media Lab Recording Studio, Homewood, Chicago, IL.	Dez Wright	File Re-exported / November 17, 2016.
+Released	YouTube	1	No Time (with D. Savage)	2018-03-03	Blue Room West Recording Studio, West Hollywood, Los Angeles, CA.	Murda Beatz & Toro Y Moi	Recorded / March 3, 2018.
+Released	YouTube	2	Choppa (with D. Savage)	2018-02-23	Blue Room West Recording Studio, West Hollywood, Los Angeles, CA.	Mega Beats	Recorded / February 23, 2018.
+Released	YouTube	1	Hot Ham (Remix) [feat. Juice WRLD & Lil Yachty]	2018-06-12	Juice's Vocals, Paramount Recording Studio, Santa Monica, Los Angeles, CA.	CHASETHEMONEY	Juice's Vocals / June 12, 2018.
+Released	YouTube	1	Classic Trap (with Zay Loco) | Classic | Classic Trap (Pt. 1) | Trap	2015-09-05	Enviyon Entertainment Recording Studio, Country Club Hills, Chicago, IL.	ChrisWheelerBeats	Zays's Verse, Juice's Verse & Bridge / September 5, 2015. / Zay's Rerecorded Verse / October 31, 2015.
+Released	YouTube	1	Heart Eyes (Dead Guys) [feat. Juice WRLD]	2019-01	Juice's Vocals, Blue Room West Recording Studio, West Hollywood, Los Angeles, CA.	Seezyn	Juice's Vocals / January 23-24, 2019. / File Exported / March 30, 2023.
+Released	SoundCloud	1	Forever | Forever (Pt. 1)		[?], [?], Chicago, IL.	BeatByDRMZ!	-
+Released	SoundCloud	2	Lost My Mind (Freestyle)		[?], [?], Chicago, IL.	IGNORVNCE Beats	-
+Released	SoundCloud	3	Make It There		[?], [?], Chicago, IL.	Taz Taylor	-
+Released	SoundCloud	4	Just Letting You Know		[?], [?], Chicago, IL.	Taylor King	-
+Released	SoundCloud	5	Mmmmm | Mmm Freestyle		[?], [?], Chicago, IL.	SwiftOnDemand	-
+Released	SoundCloud	6	My Side (Remix)	2015-09-13	Enviyon Entertainment Recording Studio, Country Club Hills, Chicago, IL.	40, Boi-1da & Noel Cadastre	Recorded / September 13, 2015.
+Released	SoundCloud	1	Migos (with TakeSquad Jay.B)	2016-01-11	Homewood Public Library Digital Media Lab Recording Studio, Homewood, Chicago, IL.	ITrezBeatz	Recorded / January 11, 2016.
+Released	SoundCloud	2	Forever (Pt. 2) [feat. JuiceTheKidd]		Enviyon Entertainment Recording Studio, Country Club Hills, Chicago, IL.	BeatByDRMZ!	-
+Released	SoundCloud	3	Juice Never Have To Flex	2016-05-11	Enviyon Entertainment Recording Studio, Country Club Hills, Chicago, IL.	Unknown	Recorded / May 11, 2016. / File Exported / May 11, 2016.
+Released	SoundCloud	4	Telepathy (Freestyle) | Telepathy (Pt. 1) | Telepathy (Freestyle) [Pt. 1]		[?], [?], Chicago, IL.	Unknown	-
+Released	SoundCloud	5	Let 'Em Know	2016-08	Enviyon Entertainment Recording Studio, Country Club Hills, Chicago, IL.	Unknown	Recorded / August 1-2, 2016.
+Released	SoundCloud	6	Hold Me Down	2016-08-15	Enviyon Entertainment Recording Studio, Country Club Hills, Chicago, IL.	Xavier Jordan	Recorded / August 15, 2016.
+Released	SoundCloud	7	I Know One Thing </3 | Breaking Hearts </3	2016-09-14	Enviyon Entertainment Recording Studio, Country Club Hills, Chicago, IL.	CashMoneyAp	Recorded / September 14, 2016.
+Released	SoundCloud	8	Telepathy (Pt. 2) | Telepathy (Freestyle) [Pt. 2]	2016-09-14	Enviyon Entertainment Recording Studio, Country Club Hills, Chicago, IL.	Unknown	Recorded / September 14, 2016.
+Released	SoundCloud	9	KNOW US	2016-10-10	Enviyon Entertainment Recording Studio, Country Club Hills, Chicago, IL.	Dorien Theus & Taz Taylor	Recorded / October 10, 2016.
+Released	SoundCloud	10	COMING OVER | Heartbreak Music	2016-10-10	Enviyon Entertainment Recording Studio, Country Club Hills, Chicago, IL.	Dorien Theus & Nick Mira	Recorded / October 10, 2016. / File Exported / October 10, 2016.
+Released	SoundCloud	11	ME & U | Into You | Love Story | Me 'N U | What To Do <3		Enviyon Entertainment Recording Studio, Country Club Hills, Chicago, IL.	Dorien Theus & Taz Taylor	-
+Released	SoundCloud	12	30 HRS FREESTYLE | 30 Hours Freestyle | 30 Hours (Remix)		Enviyon Entertainment Recording Studio, Country Club Hills, Chicago, IL.	Karriem Riggins, Mike Dean & Ye West	-
+Released	SoundCloud	1	PRIME | I'm In My Prime	2016-12-29	Enviyon Entertainment Recording Studio, Country Club Hills, Chicago, IL.	Countach Coupe & Dorien Theus	Recorded / December 29, 2016.
+Released	SoundCloud	2	LET'S GET IT | Let's Get It 3x	2017-01-18	Enviyon Entertainment Recording Studio, Country Club Hills, Chicago, IL.	Dorien Theus & Nikko Bunkin	Recorded / January 18, 2017.
+Released	SoundCloud	3	SOMETHING NEW | Come & Go | $omething New	2017-02-01	Enviyon Entertainment Recording Studio, Country Club Hills, Chicago, IL.	Dorien Theus & Nick Mira	Recorded / February 1, 2017.
+Released	SoundCloud	4	TOO MUCH CASH | T.M.C. | TOOMUCH$$$	2017-03-06	Enviyon Entertainment Recording Studio, Country Club Hills, Chicago, IL.	Keatan Forrest & Nick Mira	Recorded / March 6, 2017.
+Released	SoundCloud	5	DEMO WRECK | DEMO WRECK </3 | Demo Wreckinnn'	2016-12-29	Enviyon Entertainment Recording Studio, Country Club Hills, Chicago, IL.	Dorien Theus & Taz Taylor	Recorded / December 29, 2016.
+Released	SoundCloud	6	MOVES | Moves </3	2017-03-06	Enviyon Entertainment Recording Studio, Country Club Hills, Chicago, IL.	Dorien Theus & Nick Mira	Recorded / March 6, 2017.
+Released	SoundCloud	7	this can't be happening <3 | this can't be happening to me.. no way <3	2017-04-26	Enviyon Entertainment Recording Studio, Country Club Hills, Chicago, IL.	JRHITMAKER & Nick Mira	Recorded / April 26, 2017.
+Released	SoundCloud	8	SLICK RICK FREESTYLE | Slick Rick Freestyle 9 9 9	2017-05-11	Enviyon Entertainment Recording Studio, Country Club Hills, Chicago, IL.	Nick Mira	Recorded / May 11, 2017.
+Released	SoundCloud	9	2K17 Goosebumps (with Freejay & Teddystax) | Goosebumps (Remix)		[?], [?], Chicago, IL.	Cardo Got Wings, CuBeatz & Yung Exclusive	-
+Released	SoundCloud	10	cali girl... where are you? </3 | Cali (Pt. 1) | Cali Girl | Cali Girl (Pt. 1) | cali girl... where are you? </3 (Pt. 1)	2017-02-01	Enviyon Entertainment Recording Studio, Country Club Hills, Chicago, IL.	Nick Mira & Unknown	Recorded / February 1, 2017.
+Released	SoundCloud	11	My Fault </3 | ALL MY FAULT 999	2017-07-13	Morgan Lightle's Home Recording Studio, Homewood, Chicago, IL.	Nick Mira	Recorded / July 13, 2017.
+Released	SoundCloud	12	autograph (on my line)	2017-07-21	Morgan Lightle's Home Recording Studio, Homewood, Chicago, IL.	Klimax Productions & Nick Mira	Recorded / July 21, 2017.
+Released	SoundCloud	13	my x was poison 999 | My X Was Poison		Enviyon Entertainment Recording Studio, Country Club Hills, Chicago, IL.	Dorien Theus & Nick Mira	-
+Released	SoundCloud	14	ON MY MIND	2016-12-14	Enviyon Entertainment Recording Studio, Country Club Hills, Chicago, IL.	Dorien Theus & Taz Taylor	Recorded / December 14, 2016.
+Released	SoundCloud	15	OLD ME </3 | OLD ME </3 999	2017-11-19	Enviyon Entertainment Recording Studio, Country Club Hills, Chicago, IL.	Nick Mira	Recorded / November 19, 2017.
+Released	SoundCloud	1	Hell (feat. DMG Mthang)	2017-03-20	Juice's Vocals, Enviyon Entertainment Recording Studio, Country Club Hills, Chicago, IL.	Dorien Theus	Juice's Vocals / March 20, 2017.
+Released	SoundCloud	2	Don't Talk To Me (feat. Juice WRLD & Gunna)	2018-07	Paramount Recording Studio, Santa Monica, Los Angeles, CA.	Chopsquad DJ & Wheezy	Recorded / July 7-8, 2018.
+Released	SoundCloud	1	RUN	2019-01-15	Blue Room West Recording Studio, West Hollywood, Los Angeles, CA.	LordQuest & Rascal	Recorded / January 15, 2019.
+Released	SoundCloud	1	Heavy (feat. A1Billionaire)	2018-05-06	Juice's Vocals, Blue Room West Recording Studio, West Hollywood, Los Angeles, CA.	Dorien Theus & Nick Mira	Juice's Vocals / May 6, 2018.
+Released	SoundCloud	2	Smile (feat. The Weeknd)	2018-05-26	Juice's Vocals, Paramount Ameraycan Recording Studio, North Hollywood, Los Angeles, CA.	Cxdy, Nick Mira & Taz Taylor	Juice's Vocals / May 26, 2018.
+Released	Mainstream	1	Lucid Dreams (Forget Me) | Lucid Dreams | Lucid Dreams (Pt. 1)	2017-06-13	Enviyon Entertainment Recording Studio, Country Club Hills, Chicago, IL.	Dominic Miller & Nick Mira	Recorded / June 13, 2017.
+Released	Mainstream	2	All Girls Are The Same | AGATS (Pt. 1) | ALL GIRLS ARE THE SAME 999 | Same (Pt. 1)	2017-12-14	Morgan Lightle's Home Recording Studio, Homewood, Chicago, IL.	Nick Mira	Recorded / December 14, 2017.
+Released	Mainstream	3	Lucid Dreams | lucid dreams (forget me) | Lucid Dreams (Pt. 1)	2017-06-13	Enviyon Entertainment Recording Studio, Country Club Hills, Chicago, IL.	Dominic Miller & Nick Mira	Recorded / June 13, 2017.
+Released	Mainstream	4	Lean Wit' Me | Lean With Me	2018-03-27	Glass Tree Creative Recording Studio, Downtown, Chicago, IL.	Nick Mira	Recorded / March 27, 2018.
+Released	Mainstream	5	Round (feat. Juice WRLD)	2018-03-08	Juice's Vocals, NightBird Recording Studio, West Hollywood, Los Angeles, CA.	Cassius Jay & Wheezy	Juice's Vocals / March 8, 2018.
+Released	Mainstream	6	Wasted (feat. Lil Uzi Vert)	2018-04	Juice's Hook, Hook Harmonies & Verse, Glass Tree Creative Recording Studio, Downtown, Chicago, IL., Uzi's Verse, MilkBoy Recording Studio, Franklin Square, Philadelphia, PA.	Chris Barnett	Hook & First Verse / April 23-24, 2018. / Hook Harmonies / April 27, 2018. / Second Verse / May 16, 2018.
+Released	Mainstream	7	Honestly (with G Herbo)	2018-01	Valley High Residential Recording Studio, Studio City, Los Angeles, CA.	Jake One & Southside	Recorded / January 17-18, 2018.
+Released	Mainstream	8	NO BYSTANDERS (feat. Juice WRLD & Sheck Wes)	2018-06-14	Juice's Vocals, Paramount Recording Studio, Santa Monica, Los Angeles, CA., Sheck & Travis' Vocals, Travis' Rented Home Recording Studio, 'Āina Haina, Honolulu, HI.	Gezin, Mike Dean, TM88, WondaGurl & Young Larry David	Juice's Vocals / June 14, 2018. / Sheck & Travis' Vocals / July 10, 2018.
+Released	Mainstream	9	Armed And Dangerous	2018-06	Paramount Recording Studio, Santa Monica, Los Angeles, CA.	Dre Moon	Recorded / June 17-18, 2018.
+Released	Mainstream	10	Fine China (with Future)	2018-08-01	5Star Production Studio, Atlantic Station, Atlanta, GA.	Psymun, SinGrinch & Wheezy	Recorded / August 1, 2018.
+Released	Mainstream	11	Yacht Club (with Lil Yachty)	2018-06-12	Paramount Recording Studio, Santa Monica, Los Angeles, CA.	Earl On The Beat	Recorded / June 12, 2018.
+Released	Mainstream	12	1400 / 999 Freestyle (with Trippie Redd) | 1400 / 999 Freestyle (Pt. 1)	2018-09-09	Paramount Encore Recording Studios, Burbank, Los Angeles, CA.	Cujo, OZ & Pas Beatz	Recorded / September 9, 2018.
+Released	Mainstream	13	Nuketown (feat. Juice WRLD)	2018-11-20	Ski Mask's Vocals, 5Star Production Studio, Atlantic Station, Atlanta, GA., Juice's Vocals, Rented Home Recording Studio, West Hollywood, Los Angeles, CA.	Fresh ThPharmacy	Ski Mask's Vocals / October [?], 2018. / Juice's Vocals / November 20, 2018.
+Released	Mainstream	14	Roses (feat. Brendon Urie)	2018-02-16	Juice's Vocals, Record Plant Recording Studio, West Hollywood, Los Angeles, CA.	Benny Blanco, Cashmere Cat & Happy Perez	Juice's Vocals / February 16, 2018. / Brendon's Vocals / December 1-3, 2018.
+Released	Mainstream	15	Roses (feat. Brendon Urie)	2018-02-16	Juice's Vocals, Record Plant Recording Studio, West Hollywood, Los Angeles, CA.	Benny Blanco, Cashmere Cat & Happy Perez	Juice's Vocals / February 16, 2018. / Brendon's Vocals / December 1-3, 2018.
+Released	Mainstream	16	MoshPit (feat. Juice WRLD)	2018-11	Juice's Vocals, [?], [?], Los Angeles, CA.	Natra Average & SkipOnDaBeat	Kodak's Vocals / August [?], 2018. / Juice's Vocals / November 10-19, 2018.
+Released	Mainstream	17	Hide (feat. Seezyn)	2018-04-03	Juice's Vocals, Glass Tree Creative Recording Studio, Downtown, Chicago, IL.	Neil Blanco & PD Beats	Juice's Vocals / April 3, 2018.
+Released	Mainstream	18	Demons And Angels (with A Boogie Wit' Da Hoodie)	2018-07-17	Penthouse Recording Studio, Times Square, New York City, NY.	Richie Souf	Recorded / July 17, 2018.
+Released	Mainstream	1	Without Me (Remix) [feat. Juice WRLD]	2018-12-10	Juice's Vocals, Rented Home Recording Studio, Sandy Springs, Atlanta, GA.	Louis Bell	Third Verse / December 10, 2018. / Hook & Third Verse Ad-Libs / December 14, 2018.
+Released	Mainstream	2	Never Scared (feat. Juice WRLD)			CuBeatz, DY Krazy & Southside	-
+Released	Mainstream	3	Robbery	2018-01-24	Rented Home Recording Studio, Sherman Oaks, Los Angeles, CA.	Nick Mira	Recorded / January 24, 2018.
+Released	Mainstream	4	Hear Me Calling | Hear Me Callin' | One And Only	2019-01-12	Blue Room West Recording Studio, West Hollywood, Los Angeles, CA.	J.Views & Purps On The Beat	Intro, Hook & First Verse / January 12, 2019. / Outro & Second Verse / January 23, 2019.
+Released	Mainstream	5	All Night (feat. Juice WRLD)	2019-05-11	Fontainebleau Miami Beach Hotel Recording Studio, Mid-Beach, Miami, FL.	Ian Kimmel, Powers Pleasant & RM	Juice's Vocals / May 11, 2019.
+Released	Mainstream	6	Hate Me (feat. Juice WRLD)	2019-05-09	Ellie's Vocals, The Hit Factory / Germano Recording Studio, NoHo, New York City, NY., Juice's Hook Ad-Libs & Verse, Casa Monica Resort & Spa Hotel Recording Studio, Lincolnville, St. Augustine, FL., Juice's Alternate Verse Ending, The Jefferson Hotel Recording Studio, Richmond, VA.	Andrew Watt, Jason Evigan, The Monsters & Strangerz	Juice's Hook Ad-Libs & Verse / May 9, 2019. / Juice's Alternate Verse Ending / May 14, 2019.
+Released	Mainstream	7	Ransom (Remix) [feat. Juice WRLD] | Ran$om	2019-08-01	Tecca's Vocals, Internet Money Home Recording Studio, Hollywood, Los Angeles, CA., Juice's Vocals, Home Recording Studio, Encino Hills, Los Angeles, CA.	Nick Mira & Taz Taylor	Tecca's Vocals / January 4, 2019. / Juice's Vocals / August 1, 2019.
+Released	Mainstream	8	Hate Me (R3HAB Remix) [feat. Juice WRLD]	2019-05-09	Ellie's Vocals, The Hit Factory / Germano Recording Studio, NoHo, New York City, NY., Juice's Hook Ad-Libs & Verse, Casa Monica Resort & Spa Hotel Recording Studio, Lincolnville, St. Augustine, FL., Juice's Alternate Verse Ending, The Jefferson Hotel Recording Studio, Richmond, VA.	Andrew Watt, Jason Evigan, R3HAB, Strangerz & The Monsters	Juice's Hook Ad-Libs & Verse / May 9, 2019. / Juice's Alternate Verse Ending / May 14, 2019.
+Released	Mainstream	9	Mannequin Challenge (with Juice WRLD) | Grandpa Drippin'	2018-12-01	Tree Sound Recording Studio, Norcross, Atlanta, GA.	T-Minus	Recorded / December 1, 2018. / Explicit File Exported / August 9, 2019. / Clean File Exported / August 19, 2019.
+Released	Mainstream	10	Ransom (Remix) [feat. Juice WRLD] | Ran$om	2019-08-01	Tecca's Vocals, Internet Money Home Recording Studio, Hollywood, Los Angeles, CA., Juice's Vocals, Home Recording Studio, Encino Hills, Los Angeles, CA.	Nick Mira & Taz Taylor	Tecca's Vocals / January 4, 2019. / Juice's Vocals / August 1, 2019.
+Released	Mainstream	11	Graduation | Graduation (Friends Forever) [Remix]	2018-05-08	Record Plant Recording Studio, West Hollywood, Los Angeles, CA.	Benny Blanco, Cashmere Cat & Happy Perez	Recorded / May 8, 2018.
+Released	Mainstream	12	Hate Me (Snakehips Remix) [feat. Juice WRLD]	2019-05-09	Ellie's Vocals, The Hit Factory / Germano Recording Studio, NoHo, New York City, NY., Juice's Hook Ad-Libs & Verse, Casa Monica Resort & Spa Hotel Recording Studio, Lincolnville, St. Augustine, FL., Juice's Alternate Verse Ending, The Jefferson Hotel Recording Studio, Richmond, VA.	Andrew Watt, Jason Evigan, Snakehips, Strangerz & The Monsters	Juice's Hook Ad-Libs & Verse / May 9, 2019. / Juice's Alternate Verse Ending / May 14, 2019.
+Released	Mainstream	13	Bandit (feat. YoungBoy Never Broke Again) | Molly Savage	2018-12-01	Juice's Vocals, Tree Sound Recording Studio, Norcross, Atlanta, GA., YoungBoy's Vocals, NBA YoungBoy's Home Recording Studio, Baton Rouge, Louisiana, LA.	Nick Mira	Juice's Vocals / December 1, 2018. / YoungBoy's Vocals / May [?], 2019.
+Released	Mainstream	14	6 Kiss (with Trippie Redd) [feat. YNW Melly] | Kiss | Six Kiss	2018-08-09	Juice's Vocals, Record Plant Recording Studio, West Hollywood, Los Angeles, CA., Melly's Vocals, Fine Line Recording Studio, Miami Lakes, Hialeah, FL.	Nick Mira	Juice's Vocals / August 9, 2018. / Trippie's Vocals / October 7-8, 2019.
+Released	Mainstream	15	let me know (I wonder why freestyle)	2017-06-13	Enviyon Entertainment Recording Studio, Country Club Hills, Chicago, IL.	Lapalux & Nick Mira	Recorded / June 13, 2017. / File Exported / November 6, 2019.
+Released	Mainstream	16	Mannequin Challenge (with Juice WRLD) | Grandpa Drippin'	2018-12-01	Tree Sound Recording Studio, Norcross, Atlanta, GA.	T-Minus	Recorded / December 1, 2018. / File Exported / August 9, 2019.
+Released	Mainstream	1	Godzilla (feat. Juice WRLD)	2019-11-15	Juice's Vocals, Ocean Way Record One Studio, Sherman Oaks, Los Angeles, CA., Eminem's Vocals, Effigy Recording Studio, Ferndale, Detroit, MI.	Alejandro Villasana, D.A. Got That Dope, Eminem & Luis Resto	Juice's Vocals / November 15, 2019.
+Released	Mainstream	2	6 Kiss (with Trippie Redd) [feat. YNW Melly] | Kiss | Six Kiss	2018-08-09	Juice's Vocals, Record Plant Recording Studio, West Hollywood, Los Angeles, CA., Melly's Vocals, Fine Line Recording Studio, Miami Lakes, Hialeah, FL.	Nick Mira	Juice's Vocals / August 9, 2018. / Trippie's Vocals / October 7-8, 2019.
+Released	Mainstream	4	Suicidal (Remix) [feat. Juice WRLD]	2019-10	Melly's Vocals, Fine Line Recording Studio, Miami Lakes, Hialeah, FL., Juice's Vocals, Home Recording Studio, Encino Hills, Los Angeles, CA.	Z3N	Melly's Vocals / February 10, 2019. / Juice's Vocals / October 7-8, 2019. / Explicit Files Exported / February 28, 2020. / Clean File Exported / March 8, 2020.
+Released	Mainstream	5	No Me Ame (feat. Juice WRLD)	2019-06	Juice's Vocals, The Dominick Hotel Recording Studio, Soho, Manhattan, New York City, NY.	M.R.I. & Rvssian	Juice's Vocals / June 18-19, 2019.
+Released	Mainstream	6	Righteous	2019-05-22	Mondrian Park Avenue Hotel Recording Studio, Midtown Manhattan, New York City, NY.	Charlie Handsome & Nick Mira	Recorded / May 22, 2019.
+Released	Mainstream	7	Flex (feat. Juice WRLD)	2019-06-28	Juice's Vocals, Home Recording Studio, Encino Hills, Los Angeles, CA.	Chris Madine, Corbett & Hit-Boy	Juice's Vocals / June 28, 2019.
+Released	Mainstream	8	Tell Me U Luv Me (with Trippie Redd) | Tell Me You Love Me	2019-10-22	Home Recording Studio, Encino Hills, Los Angeles, CA.	Nick Mira & ​Oktanner	Trippie's Hook & Juice's Verse / October 22, 2019. / Juice's Second Verse & Bridge / November 9, 2019.
+Released	Mainstream	10	GO (feat. Juice WRLD) | Go Go Go	2019-08	Juice's Vocals, Myconian Avaton Hotel Recording Studio, Elia Beach, Elia, Mykonos, Greece.	Neek, Omer Fedi & Tito Beats	Juice's Vocals / August 21-22, 2019. / LAROI's Vocals / April 24, 2020. / File Exported / May 26, 2020.
+Released	Mainstream	11	Life's A Mess (feat. Halsey)	2019-09	Juice's Vocals, Home Recording Studio, Encino Hills, Los Angeles, CA., Halsey's Vocals, Blue Room West Recording Studio, West Hollywood, Los Angeles, CA.	Charlie Handsome, Frank Knuckles, Heavy Mellow, Khaled Rohaim, Rex Kudo & Rick Rubin	Juice's Vocals / September [?], 2019. / Halsey's Vocals / June 30, 2020.
+Released	Mainstream	12	Come & Go (EDM Remix) | Ruin This One	2018-11-30	Rented Home Recording Studio, Sandy Springs, Atlanta, GA.	Gezin & Marshmello	Recorded / November 30, 2018.
+Released	Mainstream	13	Hate Me (feat. Juice WRLD)	2019-05-09	Ellie's Vocals, The Hit Factory / Germano Recording Studio, NoHo, New York City, NY., Juice's Hook Ad-Libs & Verse, Casa Monica Resort & Spa Hotel Recording Studio, Lincolnville, St. Augustine, FL., Juice's Alternate Verse Ending, The Jefferson Hotel Recording Studio, Richmond, VA.	Andrew Watt, Jason Evigan, The Monsters & Strangerz	Juice's Hook Ad-Libs & Verse / May 9, 2019. / Juice's Alternate Verse Ending / May 14, 2019.
+Released	Mainstream	14	GO (feat. Juice WRLD) | Go Go Go	2019-08	Juice's Vocals, Myconian Avaton Hotel Recording Studio, Elia Beach, Elia, Mykonos, Greece.	Neek, Omer Fedi & Tito Beats	Juice's Vocals / August 21-22, 2019. / LAROI's Vocals / April 24, 2020. / File Exported / May 26, 2020.
+Released	Mainstream	15	Smile (feat. The Weeknd)	2018-05-26	Juice's Vocals, Paramount Ameraycan Recording Studio, North Hollywood, Los Angeles, CA.	Cxdy, Nick Mira & Taz Taylor	Juice's Vocals / May 26, 2018.
+Released	Mainstream	16	Blastoff (with Trippie Redd)	2018-09-09	Paramount Encore Recording Studios, Burbank, Los Angeles, CA.	Aryay, Diplo, KC Supreme, Nick Mira, Pharaoh Vice, Repko & Taz Taylor	Recorded / September 9, 2018. / File Exported / July 13, 2020. / Acapella File Exported / July 18, 2020.
+Released	Mainstream	17	Without Me (Remix) [feat. Juice WRLD]	2018-12-10	Juice's Vocals, Rented Home Recording Studio, Sandy Springs, Atlanta, GA.	Louis Bell	Third Verse / December 10, 2018. / Hook & Third Verse Ad-Libs / December 14, 2018.
+Released	Mainstream	18	GO (feat. Juice WRLD) | Go Go Go	2019-08	Juice's Vocals, Myconian Avaton Hotel Recording Studio, Elia Beach, Elia, Mykonos, Greece.	Neek, Omer Fedi & Tito Beats	Juice's Vocals / August 21-22, 2019. / LAROI's Vocals / April 24, 2020. / File Exported / May 26, 2020.
+Released	Mainstream	19	Real Shit	2018-02-16	Record Plant Recording Studio, West Hollywood, Los Angeles, CA.	Benny Blanco, Cashmere Cat, Dylan Brady, Henry Kwapis & Jack Karaszewski	Recorded / February 16, 2018.
+Released	Mainstream	20	Reminds Me Of You (feat. The Kid LAROI) | Reminds Me (Remix)	2019-05-03	Juice's Vocals, Dr. Luke's Private Recording Studio, West Hollywood, Los Angeles, CA.	Aaron Joseph, Dr. Luke, Sam Sumser, Sean Small & Theron Thomas	Juice's Vocals / May 3, 2019.
+Released	Mainstream	21	Godzilla (feat. Juice WRLD)	2019-11-15	Juice's Vocals, Ocean Way Record One Studio, Sherman Oaks, Los Angeles, CA., Eminem's Vocals, Effigy Recording Studio, Ferndale, Detroit, MI.	Alejandro Villasana, D.A. Got That Dope, Eminem & Luis Resto	Juice's Vocals / November 15, 2019.
+Released	Mainstream	1	Bad Boy (with Young Thug)	2019-10-25	Intro, Hook, Post-Hook & Thug's Verse, Crosby Recording Studio, Burbank, Los Angeles, CA.	Pi'erre Bourne	Intro, Hook, Post-Hook & Thug's Verse / April 10, 2019. / Juice's Verse / October 25, 2019.
+Released	Mainstream	2	Buck 50 | Buck Fifty	2019-04	Rented Private Estate Recording Studio, Bermuda Dunes, CA.	Carlton McDowell & SoundsBy8	Recorded / April 11-21, 2019. / File Exported / December 1, 2020.
+Released	Mainstream	3	Life's A Mess II (feat. Clever & Post Malone)	2019-09	Juice's Vocals, Home Recording Studio, Encino Hills, Los Angeles, CA.	Charlie Handsome, Heavy Mellow, Rex Kudo & Rick Rubin	Juice's Vocals / September [?], 2019.
+Released	Mainstream	4	Life's A Mess II (feat. Clever & Post Malone)	2019-09	Juice's Vocals, Home Recording Studio, Encino Hills, Los Angeles, CA.	Charlie Handsome, Heavy Mellow, Rex Kudo & Rick Rubin	Juice's Vocals / September [?], 2019.
+Released	Mainstream	5	Real Shit	2018-02-16	Record Plant Recording Studio, West Hollywood, Los Angeles, CA.	Benny Blanco, Cashmere Cat, Dylan Brady, Henry Kwapis & Jack Karaszewski	Recorded / February 16, 2018.
+Released	Mainstream	6	Graduation | Graduation (Friends Forever) [Remix]	2018-05-08	Record Plant Recording Studio, West Hollywood, Los Angeles, CA.	Benny Blanco, Cashmere Cat & Happy Perez	Recorded / May 8, 2018.
+Released	Mainstream	7	Can't Leave You Alone (feat. Juice WRLD)	2018-03-01	Juice's Vocals, Electric Feel Recording Studio, West Hollywood, Los Angeles, CA.	Andrew Watt & Louis Bell	Juice's Vocals / March 1, 2018.
+Released	Mainstream	8	Antisocial (feat. Juice WRLD)	2018-03-03	Juice's Vocals, Blue Room West Recording Studio, West Hollywood, Los Angeles, CA.	Murda Beatz & Sool Got Hits	Juice's Vocals / March 3, 2018.
+Released	Mainstream	9	Antisocial (feat. Juice WRLD)	2018-03-03	Juice's Vocals, Blue Room West Recording Studio, West Hollywood, Los Angeles, CA.	Murda Beatz & Sool Got Hits	Juice's Vocals / March 3, 2018.
+Released	Mainstream	10	GO (feat. Juice WRLD) | Go Go Go	2019-08	Juice's Vocals, Myconian Avaton Hotel Recording Studio, Elia Beach, Elia, Mykonos, Greece.	Neek, Omer Fedi & Tito Beats	Juice's Vocals / August 21-22, 2019. / LAROI's Vocals / April 24, 2020. / File Exported / May 26, 2020.
+Released	Mainstream	11	GO (feat. Juice WRLD) | Go Go Go	2019-08	Juice's Vocals, Myconian Avaton Hotel Recording Studio, Elia Beach, Elia, Mykonos, Greece.	Neek, Omer Fedi & Tito Beats	Juice's Vocals / August 21-22, 2019. / LAROI's Vocals / April 24, 2020. / File Exported / May 26, 2020.
+Released	Mainstream	12	Matt Hardy 999 (with Juice WRLD)	2018-09-09	Paramount Encore Recording Studios, Burbank, Los Angeles, CA.	Aaron Shadrow, Cashmere Cat, Jasper Harris, Outtatown, Rip & Starboy	Recorded / September 9, 2018.
+Released	Mainstream	13	Matt Hardy 999 (with Juice WRLD)	2018-09-09	Paramount Encore Recording Studios, Burbank, Los Angeles, CA.	Aaron Shadrow, Cashmere Cat, Jasper Harris, Outtatown, Rip & Starboy	Recorded / September 9, 2018.
+Released	Mainstream	14	IMY2		Juice's Vocals, Montreal Olympic Park, Montreal, QC.	3DDY, Clibbo, Harley Arsenault, Houssam, KanielTheOne & Yume	-
+Released	Mainstream	15	Rich Nigga Shit (with Young Thug)	2019-04-10	Crosby Recording Studio, Burbank, Los Angeles, CA.	Pi'erre Bourne & Ye West	Recorded / April 10, 2019.
+Released	Mainstream	16	Already Dead	2018-03-21	Paramount Recording Studio, Santa Monica, Los Angeles, CA.	Dorien Theus & Nick Mira	Recorded / March 21, 2018.
+Released	Mainstream	17	Wandered To L.A. (feat. Justin Bieber)	2018-03-01	Juice's Vocals, Electric Feel Recording Studio, West Hollywood, Los Angeles, CA.	HARV & Louis Bell	Juice's Vocals / March 1, 2018.
+Released	Mainstream	1	Cigarettes	2018-03-31	Glass Tree Creative Recording Studio, Downtown, Chicago, IL.	BradoSanz & Nick Mira	Recorded / March 31, 2018.
+Released	Mainstream	2	Godzilla (feat. Juice WRLD)	2019-11-15	Juice's Vocals, Ocean Way Record One Studio, Sherman Oaks, Los Angeles, CA., Eminem's Vocals, Effigy Recording Studio, Ferndale, Detroit, MI.	Alejandro Villasana, D.A. Got That Dope, Eminem & Luis Resto	Juice's Vocals / November 15, 2019.
+Released	Mainstream	3	Juice WRLD DID | Another One | DJ Khaled	2018-12-13	Juice's Vocals, Rented Home Recording Studio, Sandy Springs, Atlanta, GA.	Dorien Theus & Nick Mira	Juice's Vocals / December 13, 2018.
+Released	Mainstream	4	Bye Bye	2018-12-19	Rented Home Recording Studio, West Hollywood, Los Angeles, CA.	Marshmello	Recorded / December 19, 2018.
+Released	Mainstream	5	In My Head | Rush Hour | Trauma	2019-05	Casa Monica Resort & Spa Hotel Recording Studio, Lincolnville, St. Augustine, FL.	TrePounds & Sheldon Ferguson	Recorded / May 8-9, 2019. / File Exported / October 18, 2022.
+Released	Mainstream	6	Face 2 Face | Face My Fears | Face To Face	2019-08	Home Recording Studio, Encino Hills, Los Angeles, CA.	Charlie Handsome, Joe Reeves & Rex Kudo	Recorded / August [?], 2019.
+Released	Mainstream	1	KNIGHT CRAWLER (feat. Trippie Redd) | Crawling In My Skin	2018-02-20	Juice's Vocals, Chalice Recording Studio, West Hollywood, Los Angeles, CA.	Chris Barnett & Zona Man	Juice's Vocals / February 20, 2018. / File Exported / January 3, 2023.
+Released	Mainstream	2	The Light	2019-08-20	Myconian Avaton Hotel Recording Studio, Elia Beach, Elia, Mykonos, Greece.	Gezin, Hurtboy AG & ManOhManFoster	Recorded / August 20, 2019.
+Released	Mainstream	3	Cross The Globe (feat. Lil Durk)	2019-07-18	Juice's Vocals, Home Recording Studio, Encino Hills, Los Angeles, CA.	Charlie Handsome & Wheezy	Juice's Vocals / July 18, 2019. / File Exported / May 18, 2023.
+Released	Mainstream	4	Doomsday (with Cordae) | Doomsday (Pt. 1) | Role Model (Remix)	2019-08-13	Home Recording Studio, Encino Hills, Los Angeles, CA.	Dr. Dre & Mel-Man	Recorded / August 13, 2019.
+Released	Mainstream	5	Money (with Young Thug) [feat. Nicki Minaj] | Blue Cash	2018-07-14	Juice & Thug's Vocals, Tree Sound Recording Studio, Norcross, Atlanta, GA., Nicki's Vocals, [?], [?], Los Angeles, CA.	Charlie Heat	Juice & Thug's Vocals / July 14, 2018.
+Released	Mainstream	6	Lace It (feat. Eminem)			Benny Blanco, Cashmere Cat, Eminem, Happy Perez & Luis Resto	-
+Released	Mainstream	1	Doomsday (with Cordae) | Doomsday (Pt. 1) | Role Model (Remix)	2019-08-13	Home Recording Studio, Encino Hills, Los Angeles, CA.	Dr. Dre & Mel-Man	Recorded / August 13, 2019.
+Released	Mainstream	2	Wake Up! (feat. Juice WRLD) | Mutant | Your Honor	2019-04	Ski Mask's Vocals, 5Star Production Studio, Atlantic Station, Atlanta, GA., Juice's Vocals, Thompson Seattle Hotel Recording Studio, Pike Place Market, Seattle, WA.	TisaKorean	Ski Mask's Vocals / April 18, 2019. / Juice's Vocals / April 27-28, 2019. / File Exported / May 29, 2024.
+Released	Mainstream	3	AGATS (Pt. 2) | Same (Pt. 2)	2018-03-01	Juice's Vocals, Electric Feel Recording Studio, West Hollywood, Los Angeles, CA.	Louis Bell	Juice's Vocals / March 1, 2018.
+Released	Mainstream	4	6 Kiss (with Trippie Redd) [feat. YNW Melly] | Kiss | Six Kiss	2018-08-09	Juice's Vocals, Record Plant Recording Studio, West Hollywood, Los Angeles, CA., Melly's Vocals, Fine Line Recording Studio, Miami Lakes, Hialeah, FL.	Nick Mira	Juice's Vocals / August 9, 2018. / Trippie's Vocals / October 7-8, 2019.
+Released	Mainstream	5	Arctic Tundra (feat. Nicki Minaj) | Blonde Hair	2018-06	Juice's Vocals, Paramount Recording Studio, Santa Monica, Los Angeles, CA.	Dez Wright, Gezin, Max Lord & TM88	Juice's Vocals / June 6-7, 2018.
+Released	Mainstream	1	whoa (mind in awe) [Remix] {feat. Juice WRLD} | Woah	2019-03	Juice's Vocals, DoubleTree Hotel Recording Studio, Dommeldange, Luxembourg.	John Cunningham	Juice's Vocals / March 19-20, 2019.
+Released	Mainstream	1	We Don't Get Along	2019-11	Home Recording Studio, Encino Hills, Los Angeles, CA.	Marshmello	Recorded / November 10-11, 2019.

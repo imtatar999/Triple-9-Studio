@@ -1,0 +1,77 @@
+# Personal credentials and local settings
+/Instagram Downloader/
+PRIVATE/
+**/PRIVATE/
+**/lyrics_gui_config.json
+**/studio_preferences.json
+.env
+.env.*
+
+# Music, lyrics and generated output
+Juice WRLD/
+MARKED FOR TRANSCRIPTION/
+DO DODANIA NA GENIUS/
+BUILDER_REPLAY/
+COLOR-RESEARCH/
+**/MARKED FOR TRANSCRIPTION/
+**/LYRICS/
+**/SYNCED LYRICS/
+**/.REFERENCES/
+**/TESTING_EXPORTS/
+*.mp3
+*.flac
+*.wav
+*.m4a
+*.ogg
+*.opus
+*.lrc
+
+# Local copies and backups
+BACKUPS/
+**/BACKUPS/
+SYNCED-LYRICS-DOWNLOADER-MAIN - BACKUP/
+damianoser test version/
+*.bak
+
+# Python and model caches
+__pycache__/
+**/__pycache__/
+*.py[cod]
+*.pt
+*.pth
+*.onnx
+*.safetensors
+.pytest_cache/
+
+# Editor and operating-system files
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+desktop.ini
+
+
+# Local LRC scan cache and resync queue
+lyrics_sync_state/
+
+# Not part of Triplenine Lyrics Studio (kept locally only)
+/T9 Music Player/
+/T9 SUBTITLES/
+/999ikonki/
+/PELNA_HISTORIA_CHATU_TRIPLENINE.txt
+/FLAC_to_MP3_320.py
+
+# Raw tracker sheet pages (the program reads tracker/*.txt)
+**/_sheet/
+
+# The program's own Python, packages and tools (made by Install Triplenine Studio.cmd)
+runtime/
+
+# Exports for sharing (made by the program; contain lyrics) and local history backups
+SHARE-LRC/
+*.bundle
+**/tracker/sheet_*.json
+**/lyrics_sync_state/
+**/window_positions.json
+tmp*/
+**/tmp*/
