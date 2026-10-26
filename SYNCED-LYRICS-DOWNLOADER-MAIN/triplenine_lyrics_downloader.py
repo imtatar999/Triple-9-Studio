@@ -11603,6 +11603,7 @@ menubar.add_cascade(label="Settings", menu=settings_menu)
 
 help_menu = tk.Menu(menubar, tearoff=0)
 help_menu.add_command(label="Open GitHub", command=open_github)
+help_menu.add_command(label="Join our Discord", command=lambda: webbrowser.open(studio_version.DISCORD_URL))
 help_menu.add_command(label="Support the project on Ko-fi ☕", command=lambda: webbrowser.open(studio_version.KOFI_URL))
 help_menu.add_command(label="Check for updates…", command=lambda: check_for_updates(True))
 auto_update_var = tk.BooleanVar(value=bool(config.get("auto_update_check", True)))
