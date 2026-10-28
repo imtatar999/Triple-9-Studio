@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <img src="docs/images/downloader.png" alt="The Downloader: artists, albums and a Mp3tag-style table of your tracks">
+  <img src="docs/images/main.png" alt="The Downloader: artists, albums and a Mp3tag-style table of your tracks">
 </p>
 
 ---
@@ -33,7 +33,7 @@ Triple 9 Studio is a set of three tools for a local MP3 / FLAC collection:
 - Safe by default: every change to a song is **backed up first**, and long jobs never freeze the window.
 
 <p align="center">
-  <img src="docs/images/lyrics-sync.png" width="720" alt="Lyrics Sync window">
+  <img src="docs/images/sync.png" width="720" alt="Lyrics Sync window">
 </p>
 
 ## Install (about 5 GB)
@@ -57,7 +57,7 @@ Running the installer again repairs or completes an installation. Disk space: ab
 4. For timed lyrics open **Lyrics Sync**, choose a song and its text, click **START SYNC**.
 5. For the lyrics download you can add a free Genius token in **Settings → Options**.
 
-Full, step-by-step guide: **[docs/HOW-TO-USE.md](docs/HOW-TO-USE.md)** (the same text as *Help → How To Use* in the program).
+Full, step-by-step guide: **[docs/HOW-TO-USE.md](docs/HOW-TO-USE.md)** (starts with "download and sync your first song"; the same text as *Help → How To Use* in the program).
 
 ## Community, bugs and feature requests
 
