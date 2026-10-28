@@ -36,7 +36,7 @@ Triple 9 Studio is a set of three tools for a local MP3 / FLAC collection:
   <img src="docs/images/lyrics-sync.png" width="720" alt="Lyrics Sync window">
 </p>
 
-## Install (about 5 GB, 10–30 minutes, once)
+## Install (about 5 GB)
 
 You need **Windows 10 / 11**. No administrator rights, nothing is installed into Windows — the program keeps its own Python in its folder.
 
